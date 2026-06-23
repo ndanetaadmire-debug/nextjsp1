@@ -1,4 +1,12 @@
-.boarderRadius {border-radius:9999px}
+.boarderRadius {
+    border-radius:9999px
+  }
+
+  .imageWrapper {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
 
 .backHome {font-weight: 900;}
 
@@ -28,3 +36,4 @@ padding: 0.5rem 0;
 font-size: 1.15rem;
 line-height: 1.5;
 }
+
